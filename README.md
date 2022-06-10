@@ -5,7 +5,7 @@ Calculates the **difference** between **two dates** with old format.
 ## Using
 
 ```sh
-$ gcc date-diff.c -o date-diff
+$ gcc date-diff.c test.c -o date-diff
 ./date-diff
 ```
 
