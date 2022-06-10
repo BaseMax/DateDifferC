@@ -1,6 +1,6 @@
 # Date Differ C
 
-Calculates the **difference** between **two dates** with old format.
+Calculates the **difference** between **two dates** in the old format. (Using C Language without any extra library)
 
 ## Using
 
